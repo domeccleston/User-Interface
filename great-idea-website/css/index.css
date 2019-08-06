@@ -64,3 +64,114 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+	text-align: left;
+}
+
+nav {
+	display: inline-block;
+	height: 100px;
+	margin-bottom: 20px;	
+}
+
+nav span {
+	padding: 5px 40px 5px 40px;
+	color: gray;
+}
+
+.logo {
+	display: inline-block;
+	vertical-align: bottom;
+	height: 38px;
+	position: relative;
+	top: 10px;
+	margin-top: 20px;
+}
+
+h1 {
+	font-size: 70px;
+	display: inline-block;
+	padding-top: 100px;
+	margin-left: 175px;
+	padding-bottom: 10px;
+}
+
+.button {
+	border: 1px solid black;
+	display: inline-block;
+	padding: 10px 30px 10px 30px;
+	margin-top: 10px;
+	margin-left: 240px;
+}
+
+#img1 {
+	display: inline-block;
+	vertical-align: bottom;
+	margin: 20px 10px 0px 50px;
+	height: 400px;
+	width: 400px;
+}
+
+#img2 {
+	display: inline-block;
+	margin: 0px 80px 0px 80px;
+}
+
+.container-top {
+	margin-top: 0px;
+}
+
+.jumbotron {
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	vertical-align: bottom;
+	display: inline-block;
+	margin-right: 140px;
+}
+
+hr {
+	margin: 20px 0 20px 0;
+}
+
+h6 {
+	font-family: Bangers;
+	padding: 15px 0 15px 0;
+}
+
+p {
+	line-height: 1.5;
+}
+
+.textbox {
+	width: 400px;
+	margin-left: 80px;
+	margin-bottom: 40px;
+	display: inline-block;
+}
+
+.textbox-2 {
+	width: 300px;
+	display: inline-block;
+	margin-left: 40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.container-main {
+	margin-left: 20px;
+}
+
+address {
+	display: inline-block;
+	width: 400px;
+}
+
+footer {
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
